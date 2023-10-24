@@ -1,0 +1,24 @@
+# Blender MTL File: 'Riesenkrabbe_combi.blend'
+# Material Count: 2
+
+newmtl material_0.001
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd NHMW-Zoo3-4381-Riesenkrabbe_klein_low res_3.png
+
+newmtl material_0.002
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd D:\\Artec_Studio_Projekt\\6_NHM_Zoo3\\NHMW-Zoo3-Riesenkrabbe_klein_03082021_AZ\\Meshes\\NHMW-Zoo3-Riesenkrabbe_klein_low res_1.png
