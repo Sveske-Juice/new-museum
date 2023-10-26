@@ -1,32 +1,79 @@
 fileFormatVersion: 2
-guid: a80c790bd1a65e74fa693ca77ef45f63
+guid: 2423ab978b01b654785c9c760e4fe65c
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable:
   - first:
-      74: 1941910165251618575
-    second: freddy.qc_skeleton|freddy.qc_skeleton|freddy.qc_skeleton|idle
+      74: 1611804828400228412
+    second: Freddy--CPU_Revive
+  - first:
+      74: -3529689986513524387
+    second: Freddy--Glimpse (2)
+  - first:
+      74: 5884841486732138231
+    second: Freddy--JumpscareFinalPose
+  - first:
+      74: -3637249025101285589
+    second: Freddy--Jumpscare
+  - first:
+      74: -4040583361291236586
+    second: Freddy--Decloak
+  - first:
+      74: -8515617845740019320
+    second: Freddy--Idle
+  - first:
+      74: -8709089520895991050
+    second: Freddy--CPU_ShutdownFinalPose
+  - first:
+      74: 1808525090311163672
+    second: Freddy--Charge
+  - first:
+      74: 4609272626240838746
+    second: Freddy--Jumpscare_Intro
+  - first:
+      74: -3478775466959984490
+    second: Freddy--Glimpse (1)
+  - first:
+      74: 4102277984536627741
+    second: Freddy--ChargePose
+  - first:
+      74: -3920284227205517587
+    second: Freddy--Haywire
+  - first:
+      74: -8685413618515374351
+    second: Freddy--CPU_Lurch
+  - first:
+      74: 5441719166605055204
+    second: Freddy--Decloaked
+  - first:
+      74: 6275892415579311928
+    second: Freddy--Glimpse
+  - first:
+      74: 5968385275357103552
+    second: Freddy--Shocked
+  - first:
+      74: 1596808031315683295
+    second: Freddy--Shutdown
+  - first:
+      74: 5019070340475842968
+    second: Freddy--ShutdownFinalPose
+  - first:
+      74: -8120145747238763986
+    second: Freddy--CPU_Shutdown
+  - first:
+      74: 172714526601909986
+    second: Freddy--Charge_old
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Body
-    second: {fileID: 2100000, guid: ccccfb1ec4a9685478e16c5938c047a0, type: 2}
+      name: Freddy_Body
+    second: {fileID: 2100000, guid: 8a66f7fd88409d24db460ca04ee83b27, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Endo
-    second: {fileID: 2100000, guid: d7cd3fa5dfc95594cb9825ed010b1fe1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Eyes
-    second: {fileID: 2100000, guid: 5543c0eb1e1722b46b327205f0c6a7f8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Mic
-    second: {fileID: 2100000, guid: f55f32e1efbf5ef44aeb3cd60e591173, type: 2}
+      name: Freddy_Eyes
+    second: {fileID: 2100000, guid: 53654a68853a1f1408125d33a0f8c01b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
