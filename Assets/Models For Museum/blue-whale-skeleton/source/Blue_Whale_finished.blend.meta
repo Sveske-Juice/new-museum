@@ -3,7 +3,57 @@ guid: ca27a3d7dfd1f624bb9525e9d595e470
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cervical
+    second: {fileID: 2100000, guid: 57ec945d525651e49b4918ada435a4b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jaw
+    second: {fileID: 2100000, guid: 87053cf8fd0a13c4baaba2c9a670ab8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_flipper
+    second: {fileID: 2100000, guid: a739a57b37d304f4bbc2e870aa08f352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ribcage
+    second: {fileID: 2100000, guid: 713584cf7a10b1e4db23dbb63473f297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_flipper
+    second: {fileID: 2100000, guid: 82ff43439d6b2bf41bcd2eab13c6e940, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skull
+    second: {fileID: 2100000, guid: 3d884c8032e272149b415bb0cf6f0f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spine
+    second: {fileID: 2100000, guid: 9fa7b0517262d5f42b2bbcc02f50f8b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tail
+    second: {fileID: 2100000, guid: 4adc0ad7e883de949bf7d8d39ef8418c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tussenstukje
+    second: {fileID: 2100000, guid: 217860bfbf07256429fb0697cdf28de7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: defaultMat.011
+    second: {fileID: 2100000, guid: 621759d092db6e04793bb1f06cfa17e8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

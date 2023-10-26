@@ -12,7 +12,12 @@ ModelImporter:
   - first:
       74: -161688862752167033
     second: Shark_Armature|Swim2
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 8fd77afd03514354aa0994d71239f8bb, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

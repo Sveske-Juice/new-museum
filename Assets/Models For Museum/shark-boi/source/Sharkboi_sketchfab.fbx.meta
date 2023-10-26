@@ -3,7 +3,37 @@ guid: 96ecd9251c3452943b0f8d0bbc4b8eba
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyes
+    second: {fileID: 2100000, guid: f3c5b6c9d7f3f89479acc5aefdefca5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main_body
+    second: {fileID: 2100000, guid: 3dee29fd3cad92743ae8971c07fec6c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sand_mat
+    second: {fileID: 2100000, guid: 13d0056609f834f4c96cfeacaad46ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth
+    second: {fileID: 2100000, guid: 4be0f275f210a0649b0512f2a9c256b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue
+    second: {fileID: 2100000, guid: 00dfe721cc2df144dbca35f099cc66b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: waterring
+    second: {fileID: 2100000, guid: 213a1a2413f9b8842bc6c45595b55af0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
