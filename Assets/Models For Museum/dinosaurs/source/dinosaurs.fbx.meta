@@ -3,7 +3,22 @@ guid: 86c63c7182388a74daaa43e6ba4bc1a1
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bones_material
+    second: {fileID: 2100000, guid: 8b8b50bcced4bc94bb47f7e259b510b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bones_material_3
+    second: {fileID: 2100000, guid: 7ec6a01cd592189468516332c567d8cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stand_material
+    second: {fileID: 2100000, guid: 12c1d2df351a630469d8c7c9d2be4e8b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
