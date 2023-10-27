@@ -112,6 +112,56 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Tusks
     second: {fileID: 2100000, guid: 323b6aca180f4974ab38aa1ca024ce0b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Boxers_BaseColor
+    second: {fileID: 2800000, guid: 93b7e771d0680a14981ff841173bea0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G8MEleph-Mouth-T
+    second: {fileID: 2800000, guid: be7035b4ff609db45bb8ec154de91001, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G8MElephEye-1006T
+    second: {fileID: 2800000, guid: fae6eb403202deb47a4cc71347951c24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G8MElephLashes
+    second: {fileID: 2800000, guid: f8274923d8552bb43bb04d8b5269bdb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G8MEleph_Arms-1004T
+    second: {fileID: 2800000, guid: 680acff2baa974e42bef0006d1c44c5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G8MEleph_EleLegs_T
+    second: {fileID: 2800000, guid: 57d53b3a1ff9c4647841cca15977c8c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G8MEleph_Face-1001T
+    second: {fileID: 2800000, guid: e776ae5ae680fc449b6e5a9073740379, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G8MEleph_Legs-1003T
+    second: {fileID: 2800000, guid: ffa3c047fc9d5c742bbec802a3f65ab9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G8MEleph_Torso-1002T
+    second: {fileID: 2800000, guid: f0ee64543d2ab77449c31c5068969aa6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: G8MEleph_Trunk_T
+    second: {fileID: 2800000, guid: 2a5fb150457fee749b07576901337c89, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0

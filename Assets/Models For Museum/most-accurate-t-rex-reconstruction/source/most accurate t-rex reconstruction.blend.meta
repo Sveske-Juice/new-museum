@@ -6,7 +6,27 @@ ModelImporter:
   - first:
       74: -623603649343465320
     second: Scene
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rex.eye
+    second: {fileID: 2100000, guid: 8bc510896a9470946985cdb03004afb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rex.eye.2
+    second: {fileID: 2100000, guid: 1164710bdafa40c4abaf1c675445b66a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rex.eye.3
+    second: {fileID: 2100000, guid: 8828da040afc21a4eb4094b5e5646dc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skin
+    second: {fileID: 2100000, guid: e86876e6ff6539a46b5193d0894635a3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

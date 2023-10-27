@@ -19,7 +19,22 @@ ModelImporter:
       74: 1831759082094264069
     second: 1963.263.b Naga-Enthroned Buddha Base|1963.263.c Naga-Enthroned Buddha
       HoodAction
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Naga Enthroned Buddha Figure Mats
+    second: {fileID: 2100000, guid: 0f0f3fdc45e65c74eb139848c60f94e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Naga-Enthroned_Buddha_Base_Mats
+    second: {fileID: 2100000, guid: f6b87d61205152d43b067b6441da7911, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Naga-Enthroned_Buddha_Hood_Mats
+    second: {fileID: 2100000, guid: 403e650342cf4cd418fec6055c320032, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -11,17 +11,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Naga Enthroned Buddha Figure Mats
-    second: {fileID: 2100000, guid: 558b5a0d9ec74754b9115dff3789a572, type: 2}
+    second: {fileID: 2100000, guid: 830a479e86ba20d40a12b5b6b9588bba, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Naga-Enthroned_Buddha_Base_Mats
-    second: {fileID: 2100000, guid: e1462450364cfbd48954c130684127c6, type: 2}
+    second: {fileID: 2100000, guid: 19f2543c5e851bc448b7473e0c976901, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Naga-Enthroned_Buddha_Hood_Mats
-    second: {fileID: 2100000, guid: 225dc7cc7c1a18a4e9ec5a9e5e78e0a4, type: 2}
+    second: {fileID: 2100000, guid: fdf0f71edc73ab1468d029b5cc301ee5, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
