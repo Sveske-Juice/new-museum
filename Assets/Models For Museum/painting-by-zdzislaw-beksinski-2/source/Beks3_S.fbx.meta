@@ -3,7 +3,22 @@ guid: af7ab8d4b4422f84c80110e06d31130d
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #89
+    second: {fileID: 2100000, guid: 89cb7d26eaf5648419506d98eaf949f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OBRAZ
+    second: {fileID: 2100000, guid: 177e7f3782ae5ae429f342d2ecaae390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RAMY
+    second: {fileID: 2100000, guid: cfd2ac343a62585489b2a61d23afbd3d, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
